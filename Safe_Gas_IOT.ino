@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3uxzKYz6v"
+#define BLYNK_TEMPLATE_ID "YOUR TEMPLATE ID"
 #define BLYNK_TEMPLATE_NAME "Safegas IOT"
-#define BLYNK_AUTH_TOKEN "wXv3U-N-SJ0KkBFzxvOKwrg-SfMzjX-l"
+#define BLYNK_AUTH_TOKEN "YOUR_TOKEN"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
@@ -9,8 +9,8 @@
 // ==========================================
 // WIFI
 // ==========================================
-char ssid[] = "*******";
-char pass[] = "******";
+char ssid[] = "WIFI_NAME";
+char pass[] = "WIFI_PASSWORD";
 
 // ==========================================
 // PIN DEFINITIONS
